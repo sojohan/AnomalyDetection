@@ -1,4 +1,4 @@
-# MetroPT two-stage anomaly demo: IF → XGBoost vs SAP RPT 1.6
+# SAP RPT-1.6 anomaly prediction on MetroPT train air-compressor sensors
 
 ## Overview
 
